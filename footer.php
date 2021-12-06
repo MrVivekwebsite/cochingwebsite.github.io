@@ -7,12 +7,12 @@
 	padding:0px;
 }
 #footer1{
-	height:350px;
+	height:400px;
 	//background:black url("image/jpg.jpg");
-	background-color:#181c24;
+	background-color:transparent;
 	width:100%;
 	margin-bottom:0px;
-	padding:0px;
+	padding:100px;
 }
 #footer2{
 	margin-top:0px;
@@ -36,7 +36,8 @@ background:black url("image/footer.jpg");
 	float:left;
 	width:270px;
 	line-height:25px;
-	color:white;margin:1px;
+	color:gray;
+	margin:1px;
 }
 
 #ftrtd2{
@@ -69,84 +70,63 @@ background:black url("image/footer.jpg");
 	line-height:25px;
 	
 }
-#fontstyle{
-	width:100%;
-	background:#181c24;
-	height:50px;
-}
-#fontstyle td{
-	font-size:30px;
-	height:50px;
-	width:100%;
-
-}
-
 #fontstyle a{
 	color:white;
-	padding-left:20px;
-	background-color:#181c24;
-	width:100%;
+	padding:20px;
 }
-
-
-
 </style>
 
 
 </head>
 <body>
 
-
+<div>
 <div id="footer1">
 <table>
 <tr>
 <td id=ftrtd1>
-<br>
-<h1>Contact Us</h1>
-<br>
-<h4>Email</h4>
-
-<p>softtechedu2019@gmail.com</p>
-
-
-<hr>
-<h4>Phone Number</h4>
-<p>7355227196
-,+91 9838301631
-</p>
-
-
-<hr>
-
-<h4>Address</h4>
-<p>Softtech computer center Ratanlal Nagar, Ratanlal Nagar Main Rd, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022</p>
-</td>
-
+<img src="image/png2.png"><br>	<br>
+<p>We create unique jewelry for those who appreciate proven quality and exquisite style</p>
 <td id=ftrtd2>
 
 <br>
 
-<h1>Affordable Course</h1>
+<h1>Best Seller</h1>
 
 <br>
-<h4>Web Devlopment</h4>
-<h4>Coral Draw</h4>
-<h4>Advance Excel</h4>
-<h4>O Level</h4>
-<h4>C Programming</h4>
+<table>
+<tr>
+<td><a href=""><img src="image/png3.png" width=100px height=100px></a></td><td> 
+<a href="">
+Enticer Chronograph Black Dial Men's Watch<br>
+<span>$889.00 – $1,289.00</span></a></td></tr><tr>
+<td><img src="image/img18.jpg" width=100px height=100px></td><td><p>
+Charm Anniversary Diamond Ring
+<span>
+$889.00 – $1,289.00</span></p></td>
+</tr>
+
+</table>
 
 
 </td>
 <td id=ftrtd3>
 <br>
 
-<h1>Visit Us</h1><br>
-<h4>Our Classrooms</h4>
-<h4>Digital labs</h4>
-<h4>Seatings Area</h4>
-<h4>Accesbilities</h4>
-<h4>FAQS</h4>
+<h1>Tags</h1><br>
+<table>
+<tr> <td id=><a href="">EMERALDS</a></td><td id=><a href="">ITEM</a></td></tr>
+<tr> <td id=><a href="">LUXURY</a></td><td id=><a href="">SALE</a></td></tr>
+<tr> <td id=><a href="">SAPPHIRE</a></td><td id=><a href="">SIMPLE</a></td></tr>
+<tr> <td id=><a href="">STOCK</a></td><td id=><a href="">WEDDING</a></td></tr>
+<tr> <td id=><a href="">ZIRCONIA</a></td></tr>
+
+</table>
+
+
+
 </td>
+
 <td id=ftrtd4>
 <br>
 <h1>My Account</h1><br>
@@ -155,46 +135,12 @@ background:black url("image/footer.jpg");
 <h4>SignIn/SignUp</h4>
 <h4>Send Message</h4>
 </td>
-<td id=ftrtd5>
-<br>
-<h1>Terms And Condition</h1><br>
-<h4>Legal Policies</h4>
-<h4>Rules And Regulation</h4>
-</td>
-
-</tr></table>
-</div>
-<div id=fontstyle>
-<table>
-
-<tr><td>
-<a href="#" style=text-decoration:none>
-<i class="fab fa-facebook"></i>
-</a>
-<a href="#" style=text-decoration:none>
-<i class="fab fa-twitter"></i>
-</a>
-<a href="#" style=text-decoration:none>
-<i class="fab fa-linkedin-in"></i>
-</a>
-<a href="#" style=text-decoration:none>
-<i class="fab fa-whatsapp"></i>
-</a>
-
 </td></tr>
 </table>
 
+
+
+
 </div>
-
-
-
-
-
-<div id="footer2"><hr style=color:gray>
-
-<h3>This is copyright@Softech Computer Education Center</div>
-
-
-
 </body>
 </html>
